@@ -1,3 +1,3 @@
 Hello World
 ==
-Just a weird way to print hello world into your terminal
+run in your fav terminal
